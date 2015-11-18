@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
  - a .git folder is created
  - the repository is created
  - to tell git this is a repository that needs to track changes
+
+ How is the staging area different from the working directory and the repository? What value do you think it offers?
+  - Contains files/changes in flux
+  - Value: to make sure your commits are properly vetted
